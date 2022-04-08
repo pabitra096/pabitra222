@@ -1,0 +1,156 @@
+body {
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #E3FEFC;
+  position: relative;
+  padding-top: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #09EDC3;
+  font-size: 100px;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 50px;
+  font-weight: normal;
+  color: #09EDC3;
+  padding: 57px 0;
+}
+
+.middle-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.bottom-mountain {
+  margin-top: 60px;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin: 10px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 36px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 6%;
+}
+
+.profile {
+  padding: 111px 0;
+}
+
+.skillfirstpic {
+  width: 166px;
+  height: 160px;
+  float: left;
+  margin-right: 80px;
+}
+
+.intro-skill {
+  text-align: left;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+h3 {
+  color: #06DEDA;
+}
+
+.skillsecondpic {
+  width: 166px;
+  height: 160px;
+  float: right;
+  margin-left: 80px;
+}
+
+.skillthirdpic {
+  width: 166px;
+  height: 160px;
+  float: left;
+  margin: 0 93px 0 -31px;
+}
+
+.Skill-1 {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.Skill-1 h3 {
+  color: #09EDC3;
+  text-align: left;
+}
+.Touch-skill{
+  margin: 70px auto 77px;
+width: 31%;
+line-height: 2;
+}
+.button-container{
+  background-color: #09EDC3;
+      padding: 48px 0 48px;
+          margin: 93px 0 0 0;
+}
+.contactme-button{
+  padding: 21px 145px;
+  font-size:21px;
+  font-family:Courier New;
+  width:300px;
+  height:46px;
+  border-width:1px;
+  color:#ffffff;
+  border-color:#057fd0;
+  font-weight:bold;
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  text-shadow: 0px -1px 0px #5b6178;
+  background:linear-gradient(#33bdef, #019ad2);
+  text-decoration: none;
+}
+
+.contactme-button:hover {
+  background: linear-gradient(#019ad2, #33bdef);
+}
+
+}
+.copyright{
+  color: #EAF6F6;
+      margin: 48px 0 0 0;
+}
+.footer-link{
+  color: #046F50;
+  margin: 24px 23px;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+
+}
